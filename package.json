@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/intranslator/get-text.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jonatan Pedersen",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/intranslator/get-text/issues"
   },
