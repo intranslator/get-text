@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/intranslator/get-text.git"
+    "url": "git+https://github.com/jonatanpedersen/get-text.git"
   },
   "author": "Jonatan Pedersen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/intranslator/get-text/issues"
+    "url": "https://github.com/jonatanpedersen/get-text/issues"
   },
-  "homepage": "https://github.com/intranslator/get-text#readme"
+  "homepage": "https://github.com/jonatanpedersen/get-text#readme"
 }
