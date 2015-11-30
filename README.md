@@ -4,7 +4,7 @@ getText module for use with text modules created with translator-app.
 ## Install
 
 ``` bash
-npm install git+ssh://git@github.com:intranslator/getText.git --save
+npm install git+ssh://git@github.com:intranslator/get-text.git --save
 ```
 
 ## Usage
